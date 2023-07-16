@@ -1,3 +1,17 @@
+/**
+ * <h1> Laboratorio # 1 - Programación de plataformas móviles </h1>
+ * <p>
+ * Universidad del Valle de Guatemala
+ * </p>
+ * 
+ * @Edwing José Gabriel de León García – Carné No. 22809
+ * @since 16/07/2023
+ * 
+ * CC3087 Seccion 31
+ * 
+ * Referencia de https://www.youtube.com/watch?v=YDiLQu9Y38o&list=PLAg6Lv5Bbjjde1VXcSjUvSXwhvaFBHfBd&index=5
+ * 
+ **/ 
 class ItemData(originalValue: Any) {
     private val originalValue: Any = originalValue
 
