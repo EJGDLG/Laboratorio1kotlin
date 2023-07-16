@@ -9,7 +9,7 @@
  * 
  * CC3087 Seccion 31
  * 
- * Referencia de https://www.youtube.com/watch?v=YDiLQu9Y38o&list=PLAg6Lv5Bbjjde1VXcSjUvSXwhvaFBHfBd&index=5
+ * Referencia de https://https://www.youtube.com/watch?v=8LyjCiuynKw
  * 
  **/  
 package com.example.itemdataj;
